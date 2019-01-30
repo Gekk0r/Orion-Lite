@@ -1,4 +1,4 @@
-![](logo.jpg "3DOM")
+![](../logo.jpg "3DOM")
 
 # Orion-scan (Lite version)
 ORION - arduinO Raspberry pi rOtating table for image based 3D recostructioN
